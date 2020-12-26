@@ -1,0 +1,214 @@
+.first {
+  width: 1000px;
+  height: 120px;
+  background-color: #CAECEB;
+  font-weight: bold;
+  position: relative;
+  animation: mymove 3s infinite;
+}
+
+#welcome {
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from {
+    left: -10px;
+  }
+
+  to {
+    left: 500px;
+  }
+}
+
+.bodyofindex {
+  background-image: url('../bi2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofstudentsinfo {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofcontactme {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofcurrentcourses {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofnotes {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofnotices {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.bodyofdistribution {
+  background-image: url('../b5.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.namecolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.seccolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.rollcolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.depcolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.mailcolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.numbercolor {
+  color: #084286;
+  font-size: 100%;
+}
+
+.button1 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button1:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button2 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button2:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button3 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button3:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button4 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button4:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button5 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button5:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button6 {
+  text-decoration: none;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button6:hover {
+  background-color: #41414C;
+  color: #228DA1;
+}
+
+.button7 {
+  text-decoration: underline;
+  color: #202868;
+  transition: 0.6s ease;
+}
+
+a.button7:hover {
+  background-color: #41414C;
+  color: #215764;
+}
+
+.button8 {
+  text-decoration: none;
+  color: #2F3869;
+  transition: 0.6s ease;
+  font-size: 180%;
+}
+
+a.button8:hover {
+  color: #215764;
+}
+
+.func1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 130%;
+}
+
+.func2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+  text-decoration: none;
+  color: #4B4C51;
+}
+
+a.func2:hover {
+  color: #215764;
+}
